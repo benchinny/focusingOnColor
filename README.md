@@ -2,7 +2,7 @@
 
 First of all, some of the following code will require ISETBIO to run, so you will need to download it. The version of ISETBIO that was used for this project (and which has diverged from the main branch) is here: https://github.com/benchinny/isetbioChinVersion
 
-Before running any analyses, navigate to the ‘focusingOnColor’ folder (this one; after downloading it, of course) and add the various folders within it to the path. Some of these are folders within the wavelengthInFocus repository itself: 
+Before running any analyses, navigate to the ‘focusingOnColor’ folder (this one; after downloading it, of course) and add the various folders within it to the path. Some of these are folders within the focusingOnColor repository itself: 
 
 addpath(genpath('ARCsignalQualityModeling'))  
 addpath(genpath('acuityAnalysis'))  
